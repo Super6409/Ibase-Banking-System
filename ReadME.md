@@ -34,10 +34,7 @@ This is a simple banking system made using Python for the India AI Ibase mini pr
 
 
 1. Install openpyxl:
-
 2. pip install openpyxl
-
 3. Then run:
-
 4. python "Ibase Project-1.py"
 
